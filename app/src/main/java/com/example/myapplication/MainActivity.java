@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Computer mComputer;
 
-    private String mTitle = "Hello World";
+    private String mTitle = "안녕 세계";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
